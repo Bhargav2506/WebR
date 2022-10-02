@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: #282c34;
+  color: aqua;
+  
+}
+.App .App-intro{
+  color: aliceblue;
+  background-color: darkblue;
+  width: 100%;
+  height: 30vh;
+  font-size: 4rem;
+}
+
+

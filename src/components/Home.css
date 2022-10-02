@@ -1,0 +1,75 @@
+.main { 
+    width: 100%;
+    height:1000px;
+    position: relative;
+    margin-top: -20px;
+    
+    text-align: center;
+    font-size: 1rem;
+    justify-content: right;
+    align-items: center;
+    display: flex;
+    background: url('./rainbow.jpg') no-repeat center center/cover;
+}
+
+
+
+.main .main-text{
+    text-align: center;
+    width: 50%;
+    margin-right: 400px;
+    margin-top: -750px;
+    font-style: italic;
+    font-size: 20px;
+    color: rgb(240, 181, 80);
+    position: absolute;
+    background-color: rgb(57, 57, 57);
+    border-radius: 20px;
+    box-shadow: 5px 10px 70px black;
+}
+.main .main-text .color{
+    font-size: larger;
+    color: rgb(240, 181, 80);
+}
+
+.main .main-text1{
+    width:180%;
+    padding: 20px;
+    display: flex;
+    margin:1500px;
+    margin-right: -750px;
+    margin-top: -13rem;
+    font-size: large;
+    font-style:oblique;
+    font-variant-ligatures: contextual;
+    box-shadow: 5px 10px 70px black;
+    border-radius: 20px;
+    color:pink;
+}
+
+.abc{
+    font-style: italic;
+    margin-top: 100px;
+}
+
+.main .button .button-1{
+    width:30%;
+    margin-top:250px;
+    display: flex;
+    height:30px;
+    margin-right: 660px;
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+    border: 2px;
+    border-style: solid;
+    border-color: white;
+    box-shadow: 20px 10px 20px black;
+    border-radius: 20px;
+
+}
+
+.col{
+    color:white;
+    font-size: 10px;
+}
