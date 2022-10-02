@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebR/static/css/main.e128581b.css",
+    "main.js": "/WebR/static/js/main.d4e102ff.js",
+    "static/js/787.28cb0dcd.chunk.js": "/WebR/static/js/787.28cb0dcd.chunk.js",
+    "static/media/rainbow.jpg": "/WebR/static/media/rainbow.b130450a9eb0ab339793.jpg",
+    "index.html": "/WebR/index.html",
+    "main.e128581b.css.map": "/WebR/static/css/main.e128581b.css.map",
+    "main.d4e102ff.js.map": "/WebR/static/js/main.d4e102ff.js.map",
+    "787.28cb0dcd.chunk.js.map": "/WebR/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e128581b.css",
+    "static/js/main.d4e102ff.js"
+  ]
+}
